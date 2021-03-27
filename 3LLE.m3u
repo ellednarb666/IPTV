@@ -130,6 +130,8 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2375.ts
 https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="",NBA Live
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2358.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="",NBA
+http://us1-external-sources.iptvserver.tv/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/DAwI07d.jpg" group-title="",Fox Sports
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
