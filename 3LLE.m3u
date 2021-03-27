@@ -3,6 +3,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/UJhd1do.png" group-title="",Kapamilya Channel
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/829dbdfe0b57013.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/pyYuIVx.png" group-title="",TFC TV
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/882598ca274e161.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/pyYuIVx.png" group-title="",TFC Europe
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/cd855b97a246caf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/YxLRtss.png" group-title="",GMA Life TV
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/fc256993b031626.m3u8
 #EXTINF:-1 tvg-id="GMANewsTVInternational.ph" tvg-name="GMA News TV International" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/i8DOVWo.png" group-title="News",GMA News TV International
